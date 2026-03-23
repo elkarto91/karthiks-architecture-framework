@@ -1,52 +1,33 @@
-﻿---
-title: Resilience and Disaster Recovery
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: resilience-dr.md
-related_docs: []
-related_adrs: []
----
-
-# Resilience and Disaster Recovery
+﻿# Resilience and Disaster Recovery
 
 ## Purpose
+Describe how the solution handles failure, continuity, recovery, and disaster scenarios.
 
-_TODO_
+## Availability Targets
+- <Target 1>
+- <Target 2>
 
-## Contents
+## Recovery Targets
+- RTO: <Target>
+- RPO: <Target>
 
-_TODO_
+## Failure Scenarios
 
-## Key Facts
+| Scenario | Impact | Mitigation | Residual Risk |
+|----------|--------|------------|---------------|
+|          |        |            |               |
 
-_TODO_
+## High Availability Strategy
+<TODO>
 
-## Open Questions
+## Disaster Recovery Strategy
+<TODO>
 
-_TODO_
+## Backup / Restore Notes
+<TODO>
 
-## Decisions
+## Degraded / Offline Operation Notes
+<TODO>
 
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Operational Recovery Steps
+<TODO>

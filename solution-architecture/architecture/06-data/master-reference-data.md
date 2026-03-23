@@ -1,52 +1,19 @@
-﻿---
-title: Master and Reference Data
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: master-reference-data.md
-related_docs: []
-related_adrs: []
----
-
-# Master and Reference Data
+﻿# Master and Reference Data
 
 ## Purpose
+Defines shared datasets across the system.
 
-_TODO_
+## Master Data
+- <Entity>
 
-## Contents
+## Reference Data
+- <Entity>
 
-_TODO_
+## Ownership
+<TODO>
 
-## Key Facts
+## Synchronization Strategy
+<TODO>
 
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Update Frequency
+<TODO>

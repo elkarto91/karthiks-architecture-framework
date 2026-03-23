@@ -1,52 +1,27 @@
-﻿---
-title: Canonical Model
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: canonical-model.md
-related_docs: []
-related_adrs: []
----
-
-# Canonical Model
+﻿# Canonical Model
 
 ## Purpose
+Defines standard entities and structures across the system.
 
-_TODO_
+## Entities
 
-## Contents
+### Entity Name
+**Description:** <TODO>
 
-_TODO_
+| Field | Type | Description |
+|------|------|-------------|
+|      |      |             |
 
-## Key Facts
+### Relationships
+<TODO>
 
-_TODO_
+### Source of Truth
+<TODO>
 
-## Open Questions
+### Lifecycle
+<TODO>
 
-_TODO_
+---
 
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Notes
+<TODO>

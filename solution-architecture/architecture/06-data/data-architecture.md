@@ -1,52 +1,34 @@
-﻿---
-title: Data Architecture
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: data-architecture.md
-related_docs: []
-related_adrs: []
----
-
-# Data Architecture
+﻿# Data Architecture
 
 ## Purpose
+Defines how data is structured, processed, and used across the system.
 
-_TODO_
+## Data Architecture Overview
+<TODO>
 
-## Contents
+## Data Domains
+- <Domain 1>
+- <Domain 2>
 
-_TODO_
+## Data Flow Summary
+<TODO>
 
-## Key Facts
+## Data Processing Types
+- Transactional
+- Analytical
+- Streaming
+- Batch
+- AI/ML processing
 
-_TODO_
+## Data Storage Strategy
+<TODO>
 
-## Open Questions
+## Data Ownership Model
+<TODO>
 
-_TODO_
+## Data Access Patterns
+<TODO>
 
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Related Documents
+- ../03-solution/domain-model-summary.md
+- ../04-infra/compute-storage.md

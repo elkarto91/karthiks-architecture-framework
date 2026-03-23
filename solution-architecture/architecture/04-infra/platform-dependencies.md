@@ -1,52 +1,22 @@
-﻿---
-title: Platform Dependencies
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: platform-dependencies.md
-related_docs: []
-related_adrs: []
----
-
-# Platform Dependencies
+﻿# Platform Dependencies
 
 ## Purpose
+List internal platform services, shared services, and third-party infrastructure/platform dependencies required by the solution.
 
-_TODO_
+## Dependency Inventory
 
-## Contents
+| Dependency | Category | Used For | Criticality | Owner / Vendor | Notes |
+|------------|----------|----------|-------------|----------------|-------|
+|            |          |          |             |                |       |
 
-_TODO_
+## Dependency Risks
+<TODO>
 
-## Key Facts
+## Vendor Lock-in Notes
+<TODO>
 
-_TODO_
+## Fallback / Exit Strategy
+<TODO>
 
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Shared Platform Assumptions
+<TODO>

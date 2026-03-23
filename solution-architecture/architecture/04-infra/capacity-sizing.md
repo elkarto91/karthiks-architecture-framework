@@ -1,52 +1,28 @@
-﻿---
-title: Capacity and Sizing
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: capacity-sizing.md
-related_docs: []
-related_adrs: []
----
-
-# Capacity and Sizing
+﻿# Capacity and Sizing
 
 ## Purpose
+Document expected scale, load assumptions, performance targets, and sizing considerations.
 
-_TODO_
+## Load Assumptions
 
-## Contents
+| Metric | Expected | Peak | Notes |
+|--------|----------|------|-------|
+|        |          |      |       |
 
-_TODO_
+## Sizing by Component
 
-## Key Facts
+| Component | Baseline Capacity | Peak Capacity | Scaling Trigger | Notes |
+|-----------|-------------------|---------------|-----------------|-------|
+|           |                   |               |                 |       |
 
-_TODO_
+## Performance Targets
+<TODO>
 
-## Open Questions
+## Bottleneck Risks
+<TODO>
 
-_TODO_
+## Cost Notes
+<TODO>
 
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Scaling Notes
+<TODO>

@@ -1,52 +1,28 @@
-﻿---
-title: Compute and Storage
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: compute-storage.md
-related_docs: []
-related_adrs: []
----
-
-# Compute and Storage
+﻿# Compute and Storage
 
 ## Purpose
+Describe the major compute runtimes and storage systems used by the solution.
 
-_TODO_
+## Compute Landscape
 
-## Contents
+| Component | Runtime Type | Scaling Model | Notes |
+|-----------|--------------|---------------|-------|
+|           |              |               |       |
 
-_TODO_
+## Storage Landscape
 
-## Key Facts
+| Store | Type | Purpose | Retention | Notes |
+|-------|------|---------|-----------|-------|
+|       |      |         |           |       |
 
-_TODO_
+## Caching Strategy
+<TODO>
 
-## Open Questions
+## Backup Strategy
+<TODO>
 
-_TODO_
+## Performance Considerations
+<TODO>
 
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Cost / Efficiency Notes
+<TODO>

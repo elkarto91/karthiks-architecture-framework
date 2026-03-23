@@ -1,52 +1,36 @@
-﻿---
-title: Deployment Topology
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: deployment-topology.md
-related_docs: []
-related_adrs: []
----
-
-# Deployment Topology
+﻿# Deployment Topology
 
 ## Purpose
+Define where the solution runs and how deployment units are arranged across cloud regions, data centers, sites, environments, or edge locations.
 
-_TODO_
+## Deployment Model
+<TODO>
 
-## Contents
+## Hosting Locations
+- <Location 1>
+- <Location 2>
 
-_TODO_
+## Deployment Units
 
-## Key Facts
+| Unit | Description | Runs Where | HA Strategy | Notes |
+|------|-------------|------------|-------------|-------|
+|      |             |            |             |       |
 
-_TODO_
+## Environment Layout
+- Development
+- Test
+- Staging
+- Production
+- Disaster Recovery / Secondary
 
-## Open Questions
+## Regional / Site Strategy
+<TODO>
 
-_TODO_
+## Network Zones / Boundaries
+<TODO>
 
-## Decisions
+## Resilience Notes
+<TODO>
 
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Related Diagrams
+- ../../diagrams/deployment/deployment-topology.puml

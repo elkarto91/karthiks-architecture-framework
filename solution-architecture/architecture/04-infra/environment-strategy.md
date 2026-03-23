@@ -1,52 +1,28 @@
-﻿---
-title: Environment Strategy
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: environment-strategy.md
-related_docs: []
-related_adrs: []
----
-
-# Environment Strategy
+﻿# Environment Strategy
 
 ## Purpose
+Describe how environments are structured, isolated, governed, and promoted.
 
-_TODO_
+## Environment List
 
-## Contents
+| Environment | Purpose | Data Policy | Access Policy | Notes |
+|-------------|---------|------------|---------------|-------|
+|             |         |            |               |       |
 
-_TODO_
+## Promotion Flow
+<TODO>
 
-## Key Facts
+## Configuration Strategy
+<TODO>
 
-_TODO_
+## Secrets Strategy
+<TODO>
 
-## Open Questions
+## Test Data Strategy
+<TODO>
 
-_TODO_
+## Release Controls
+<TODO>
 
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Rollback Strategy
+<TODO>

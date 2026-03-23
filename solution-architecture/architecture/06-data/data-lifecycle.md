@@ -1,52 +1,24 @@
-﻿---
-title: Data Lifecycle
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: data-lifecycle.md
-related_docs: []
-related_adrs: []
----
-
-# Data Lifecycle
+﻿# Data Lifecycle
 
 ## Purpose
+Defines how data moves from creation to deletion.
 
-_TODO_
+## Lifecycle Stages
+1. Creation
+2. Processing
+3. Storage
+4. Usage
+5. Archival
+6. Deletion
 
-## Contents
+## Flow Description
+<TODO>
 
-_TODO_
+## Retention Rules
+<TODO>
 
-## Key Facts
+## Archival Strategy
+<TODO>
 
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Deletion Policy
+<TODO>
