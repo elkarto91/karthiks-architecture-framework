@@ -1,52 +1,20 @@
-﻿---
-title: Runbooks Context
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: runbooks.md
-related_docs: []
-related_adrs: []
----
-
-# Runbooks Context
+﻿# Runbooks Context
 
 ## Purpose
+Define how runbooks and operational procedures are used as context.
 
-_TODO_
+## Included Runbook Types
+- Incident response
+- Recovery steps
+- Escalation guides
+- Deployment runbooks
+- Maintenance procedures
 
-## Contents
+## Freshness Expectations
+<TODO>
 
-_TODO_
+## Approval Requirements
+<TODO>
 
-## Key Facts
-
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Limitations
+<TODO>

@@ -1,52 +1,25 @@
-﻿---
-title: Current State
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: current-state.md
-related_docs: []
-related_adrs: []
----
-
-# Current State
+﻿# 09 Roadmap
 
 ## Purpose
+Defines the evolution of the system from current state to target architecture.
 
-_TODO_
+It explains:
+- current system state
+- target future state
+- transition strategy
+- release planning
+- technical debt
+- deprecation approach
 
 ## Contents
+- `current-state.md`
+- `target-state.md`
+- `transition-architecture.md`
+- `release-roadmap.md`
+- `technical-debt.md`
+- `deprecation-plan.md`
 
-_TODO_
-
-## Key Facts
-
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Related Documents
+- ../02-business/
+- ../03-solution/
+- ../07-agents/

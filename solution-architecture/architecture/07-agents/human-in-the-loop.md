@@ -1,52 +1,26 @@
-﻿---
-title: Human in the Loop
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: human-in-the-loop.md
-related_docs: []
-related_adrs: []
----
-
-# Human in the Loop
+﻿# Human in the Loop
 
 ## Purpose
+Define where humans must review, approve, or intervene in agent-assisted workflows.
 
-_TODO_
+## HITL Principles
+<TODO>
 
-## Contents
+## Approval Points
 
-_TODO_
+| Workflow | Trigger | Human Role | Approval Needed | Notes |
+|----------|---------|------------|-----------------|-------|
+|          |         |            |                 |       |
 
-## Key Facts
+## Escalation Paths
+<TODO>
 
-_TODO_
+## Override Rules
+<TODO>
 
-## Open Questions
+## Audit Requirements
+<TODO>
 
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Related Documents
+- ./tooling-and-actions.md
+- ./guardrails.md

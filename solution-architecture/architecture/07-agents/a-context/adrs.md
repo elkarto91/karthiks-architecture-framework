@@ -1,52 +1,16 @@
-﻿---
-title: ADR Context
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: adrs.md
-related_docs: []
-related_adrs: []
----
-
-# ADR Context
+﻿# ADR Context
 
 ## Purpose
+Define how architecture decisions are used as agent context.
 
-_TODO_
+## ADR Usage Rules
+<TODO>
 
-## Contents
+## Priority of Approved vs Draft ADRs
+<TODO>
 
-_TODO_
+## Conflict Resolution Strategy
+<TODO>
 
-## Key Facts
-
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Traceability Expectations
+<TODO>

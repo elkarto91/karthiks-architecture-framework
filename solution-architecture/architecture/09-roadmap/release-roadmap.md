@@ -1,52 +1,16 @@
-﻿---
-title: Release Roadmap
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: release-roadmap.md
-related_docs: []
-related_adrs: []
----
-
-# Release Roadmap
+﻿# Release Roadmap
 
 ## Purpose
+Define planned releases.
 
-_TODO_
+## Releases
 
-## Contents
+| Release | Timeline | Features | Dependencies | Notes |
+|--------|----------|----------|-------------|------|
+|        |          |          |             |      |
 
-_TODO_
+## Milestones
+<TODO>
 
-## Key Facts
-
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Key Deliverables
+<TODO>

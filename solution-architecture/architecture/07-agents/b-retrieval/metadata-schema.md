@@ -1,52 +1,31 @@
-﻿---
-title: Metadata Schema
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: metadata-schema.md
-related_docs: []
-related_adrs: []
----
-
-# Metadata Schema
+﻿# Metadata Schema
 
 ## Purpose
+Define the metadata fields used to classify and retrieve agent context.
 
-_TODO_
+## Required Metadata Fields
+- title
+- section
+- project
+- domain
+- document_type
+- owner
+- status
+- confidentiality
+- source_of_truth
+- last_reviewed
+- tags
 
-## Contents
+## Optional Metadata Fields
+- environment
+- site
+- system
+- capability
+- agent_relevance
+- freshness_class
 
-_TODO_
+## Validation Rules
+<TODO>
 
-## Key Facts
-
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Missing Metadata Handling
+<TODO>

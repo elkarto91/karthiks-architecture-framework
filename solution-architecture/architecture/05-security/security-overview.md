@@ -1,52 +1,36 @@
-﻿---
-title: Security Overview
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: security-overview.md
-related_docs: []
-related_adrs: []
----
-
-# Security Overview
+﻿# Security Overview
 
 ## Purpose
+Defines the overall security architecture and principles.
 
-_TODO_
+## Security Objectives
+<TODO>
 
-## Contents
+## Security Principles
+- Least privilege
+- Zero trust
+- Defense in depth
+- Segmentation
+- Auditability
 
-_TODO_
+## Security Scope
+<TODO>
 
-## Key Facts
+## Threat Landscape
+<TODO>
 
-_TODO_
+## Trust Boundaries
+<TODO>
 
-## Open Questions
+## Security Domains
+- Identity
+- Network
+- Data
+- Application
+- Platform
+- AI / Agent
 
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Related Documents
+- ../04-infra/networking.md
+- ../06-data/data-architecture.md
+- ../07-agents/guardrails.md

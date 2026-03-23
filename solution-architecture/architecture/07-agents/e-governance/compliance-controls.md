@@ -1,52 +1,22 @@
-﻿---
-title: AI Compliance Controls
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: compliance-controls.md
-related_docs: []
-related_adrs: []
----
-
-# AI Compliance Controls
+﻿# AI Compliance Controls
 
 ## Purpose
+Define regulatory, privacy, policy, and internal governance controls for the agent layer.
 
-_TODO_
+## Control Areas
+- Access control
+- Data minimization
+- Logging and audit
+- Model usage approval
+- Retention and deletion
+- Human oversight
+- Output traceability
 
-## Contents
+## Applicable Policies / Regulations
+<TODO>
 
-_TODO_
+## Control Mapping
+<TODO>
 
-## Key Facts
-
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Exceptions Process
+<TODO>

@@ -1,52 +1,23 @@
-﻿---
-title: Planner and Orchestrator
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: planner-orchestrator.md
-related_docs: []
-related_adrs: []
----
-
-# Planner and Orchestrator
+﻿# Planner and Orchestrator
 
 ## Purpose
+Define how the agent decides what reasoning steps and tools to use.
 
-_TODO_
+## Responsibilities
+- Intent classification
+- Context selection
+- Tool routing
+- Approval checks
+- Response assembly
 
-## Contents
+## Planning Model
+<TODO>
 
-_TODO_
+## Orchestration Flow
+<TODO>
 
-## Key Facts
+## Escalation Conditions
+<TODO>
 
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Failure Recovery
+<TODO>

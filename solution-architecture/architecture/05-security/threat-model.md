@@ -1,52 +1,24 @@
-﻿---
-title: Threat Model
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: threat-model.md
-related_docs: []
-related_adrs: []
----
-
-# Threat Model
+﻿# Threat Model
 
 ## Purpose
+Identify and assess threats to the system.
 
-_TODO_
+## Assets
+- <Asset>
 
-## Contents
+## Threat Actors
+- External attacker
+- Insider
+- Compromised system
 
-_TODO_
+## Threat Scenarios
 
-## Key Facts
+| Threat | Asset | Impact | Likelihood | Mitigation |
+|--------|------|--------|-----------|------------|
+|        |      |        |           |            |
 
-_TODO_
+## Attack Surfaces
+<TODO>
 
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Mitigation Strategies
+<TODO>

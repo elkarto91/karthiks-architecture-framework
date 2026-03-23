@@ -1,52 +1,22 @@
-﻿---
-title: Transition Architecture
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: transition-architecture.md
-related_docs: []
-related_adrs: []
----
-
-# Transition Architecture
+﻿# Transition Architecture
 
 ## Purpose
+Describe how to evolve from current to target state.
 
-_TODO_
+## Transition Phases
+<TODO>
 
-## Contents
+## Changes by Phase
+<TODO>
 
-_TODO_
-
-## Key Facts
-
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
+## Dependencies
+<TODO>
 
 ## Risks
+<TODO>
 
-_TODO_
+## Migration Strategy
+<TODO>
 
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Backward Compatibility
+<TODO>

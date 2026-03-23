@@ -1,52 +1,28 @@
-﻿---
-title: Target State
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: target-state.md
-related_docs: []
-related_adrs: []
----
-
-# Target State
+﻿# Target State
 
 ## Purpose
+Describe the desired future system.
 
-_TODO_
+## Vision
+<TODO>
 
-## Contents
+## Target Capabilities
+<TODO>
 
-_TODO_
+## Target Architecture Style
+<TODO>
 
-## Key Facts
+## Key Components
+<TODO>
 
-_TODO_
+## Platform Alignment
+<TODO>
 
-## Open Questions
+## AI / Agent Role
+<TODO>
 
-_TODO_
+## Operational Model
+<TODO>
 
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Success Criteria
+<TODO>

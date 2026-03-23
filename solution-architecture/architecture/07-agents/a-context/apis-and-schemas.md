@@ -1,52 +1,19 @@
-﻿---
-title: APIs and Schemas Context
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: apis-and-schemas.md
-related_docs: []
-related_adrs: []
----
-
-# APIs and Schemas Context
+﻿# APIs and Schemas Context
 
 ## Purpose
+Define how APIs, contracts, and schemas are used as agent-readable context.
 
-_TODO_
+## Included Artifacts
+- API specs
+- Event schemas
+- Data contracts
+- Interface docs
 
-## Contents
+## Parsing / Indexing Rules
+<TODO>
 
-_TODO_
+## Priority Rules
+<TODO>
 
-## Key Facts
-
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Versioning Notes
+<TODO>

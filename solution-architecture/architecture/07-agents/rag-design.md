@@ -1,52 +1,38 @@
-﻿---
-title: RAG Design
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: rag-design.md
-related_docs: []
-related_adrs: []
----
-
-# RAG Design
+﻿# RAG Design
 
 ## Purpose
+Define how retrieval-augmented generation is implemented for the agent layer.
 
-_TODO_
+## RAG Objectives
+<TODO>
 
-## Contents
+## Corpus Scope
+<TODO>
 
-_TODO_
+## Chunking Strategy
+<TODO>
 
-## Key Facts
+## Metadata Strategy
+<TODO>
 
-_TODO_
+## Retrieval Strategy
+<TODO>
 
-## Open Questions
+## Ranking / Re-ranking
+<TODO>
 
-_TODO_
+## Context Assembly
+<TODO>
 
-## Decisions
+## Citation / Traceability Model
+<TODO>
 
-_TODO_
+## Failure Handling
+<TODO>
 
-## Risks
+## Evaluation Approach
+<TODO>
 
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Related Documents
+- ./agent-context-sources.md
+- ../06-data/retention-lineage.md

@@ -1,52 +1,19 @@
-﻿---
-title: Approval Workflows
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: approval-workflows.md
-related_docs: []
-related_adrs: []
----
-
-# Approval Workflows
+﻿# Approval Workflows
 
 ## Purpose
+Define approval flows for agent-initiated or agent-assisted actions.
 
-_TODO_
+## Workflow Inventory
 
-## Contents
+| Workflow | Action Type | Approver | Approval Method | Notes |
+|----------|-------------|----------|-----------------|-------|
+|          |             |          |                 |       |
 
-_TODO_
+## Approval Rules
+<TODO>
 
-## Key Facts
+## Timeouts / Escalations
+<TODO>
 
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Emergency Handling
+<TODO>

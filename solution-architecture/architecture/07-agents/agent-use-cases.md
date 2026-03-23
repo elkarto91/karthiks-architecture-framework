@@ -1,52 +1,64 @@
-﻿---
-title: Agent Use Cases
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: agent-use-cases.md
-related_docs: []
-related_adrs: []
----
-
-# Agent Use Cases
+﻿# Agent Use Cases
 
 ## Purpose
+Define concrete business, operational, and architectural use cases supported by the agent layer.
 
-_TODO_
+## Use Case 1: <Name>
 
-## Contents
+### Business Objective
+<TODO>
 
-_TODO_
+### Primary Users
+<TODO>
 
-## Key Facts
+### Trigger
+<TODO>
 
-_TODO_
+### Inputs / Context Used
+<TODO>
 
-## Open Questions
+### Agent Action
+<TODO>
 
-_TODO_
+### Output
+<TODO>
 
-## Decisions
+### Human Role
+<TODO>
 
-_TODO_
+### Success Metrics
+<TODO>
 
-## Risks
+### Risks / Failure Modes
+<TODO>
 
-_TODO_
+---
 
-## Interfaces / Dependencies
+## Use Case 2: <Name>
 
-_TODO_
+### Business Objective
+<TODO>
 
-## Related Systems
+### Primary Users
+<TODO>
 
-_TODO_
+### Trigger
+<TODO>
+
+### Inputs / Context Used
+<TODO>
+
+### Agent Action
+<TODO>
+
+### Output
+<TODO>
+
+### Human Role
+<TODO>
+
+### Success Metrics
+<TODO>
+
+### Risks / Failure Modes
+<TODO>

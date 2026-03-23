@@ -1,52 +1,20 @@
-﻿---
-title: Evaluation Benchmarks
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: evaluation-benchmarks.md
-related_docs: []
-related_adrs: []
----
-
-# Evaluation Benchmarks
+﻿# Evaluation Benchmarks
 
 ## Purpose
+Define benchmark scenarios and datasets used to validate agents.
 
-_TODO_
+## Benchmark Categories
+- Architecture Q&A
+- Operational triage
+- Policy compliance
+- Tool-use accuracy
+- Cross-project reasoning
 
-## Contents
+## Benchmark Inventory
+<TODO>
 
-_TODO_
+## Pass / Fail Criteria
+<TODO>
 
-## Key Facts
-
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Review Cadence
+<TODO>

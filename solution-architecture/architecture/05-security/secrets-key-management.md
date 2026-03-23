@@ -1,52 +1,19 @@
-﻿---
-title: Secrets and Key Management
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: secrets-key-management.md
-related_docs: []
-related_adrs: []
----
-
-# Secrets and Key Management
+﻿# Secrets and Key Management
 
 ## Purpose
+Define how secrets and keys are managed.
 
-_TODO_
+## Secret Types
+<TODO>
 
-## Contents
+## Storage Strategy
+<TODO>
 
-_TODO_
+## Rotation Policy
+<TODO>
 
-## Key Facts
+## Access Controls
+<TODO>
 
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Key Management System
+<TODO>

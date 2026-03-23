@@ -1,52 +1,33 @@
-﻿---
-title: Evaluation
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: evaluation.md
-related_docs: []
-related_adrs: []
----
-
-# Evaluation
+﻿# Evaluation
 
 ## Purpose
+Define how agent quality, usefulness, and safety are measured.
 
-_TODO_
+## Evaluation Objectives
+<TODO>
 
-## Contents
+## Metrics
 
-_TODO_
+| Metric | Definition | Target | Notes |
+|--------|------------|--------|-------|
+|        |            |        |       |
 
-## Key Facts
+## Test Categories
+- Retrieval quality
+- Answer quality
+- Tool-use accuracy
+- Safety / policy adherence
+- Human satisfaction
+- Task completion rate
 
-_TODO_
+## Benchmark Scenarios
+<TODO>
 
-## Open Questions
+## Human Review Process
+<TODO>
 
-_TODO_
+## Failure Analysis Process
+<TODO>
 
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Release / Promotion Criteria
+<TODO>

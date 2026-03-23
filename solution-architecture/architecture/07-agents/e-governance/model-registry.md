@@ -1,52 +1,19 @@
-﻿---
-title: Model Registry
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: model-registry.md
-related_docs: []
-related_adrs: []
----
-
-# Model Registry
+﻿# Model Registry
 
 ## Purpose
+Define the models approved for use in the agent architecture.
 
-_TODO_
+## Model Inventory
 
-## Contents
+| Model | Provider | Purpose | Approved Use Cases | Restrictions | Notes |
+|-------|----------|---------|--------------------|-------------|-------|
+|       |          |         |                    |             |       |
 
-_TODO_
+## Model Selection Rules
+<TODO>
 
-## Key Facts
+## Versioning Rules
+<TODO>
 
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Deprecation Rules
+<TODO>

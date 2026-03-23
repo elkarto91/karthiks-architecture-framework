@@ -1,52 +1,25 @@
-﻿---
-title: Data Protection
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: data-protection.md
-related_docs: []
-related_adrs: []
----
-
-# Data Protection
+﻿# Data Protection
 
 ## Purpose
+Define how data is secured.
 
-_TODO_
+## Data Classification
+- Public
+- Internal
+- Confidential
+- Restricted
 
-## Contents
+## Encryption Strategy
+<TODO>
 
-_TODO_
+## Data Masking / Tokenization
+<TODO>
 
-## Key Facts
+## Data Isolation
+<TODO>
 
-_TODO_
+## Data Access Controls
+<TODO>
 
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Logging / Audit
+<TODO>

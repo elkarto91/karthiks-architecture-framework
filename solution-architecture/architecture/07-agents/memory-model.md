@@ -1,52 +1,32 @@
-﻿---
-title: Memory Model
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: memory-model.md
-related_docs: []
-related_adrs: []
----
-
-# Memory Model
+﻿# Memory Model
 
 ## Purpose
+Define what the agent remembers, for how long, and under what controls.
 
-_TODO_
+## Memory Types
+- Session memory
+- Task memory
+- User preference memory
+- Project memory
+- Enterprise knowledge memory
 
-## Contents
+## Memory Scope
+<TODO>
 
-_TODO_
+## Persistence Rules
+<TODO>
 
-## Key Facts
+## Expiry / Retention Rules
+<TODO>
 
-_TODO_
+## Write Conditions
+<TODO>
 
-## Open Questions
+## Read Conditions
+<TODO>
 
-_TODO_
+## Privacy / Compliance Constraints
+<TODO>
 
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Memory Risks
+<TODO>

@@ -1,52 +1,22 @@
-﻿---
-title: Agent Roles
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: agent-roles.md
-related_docs: []
-related_adrs: []
----
-
-# Agent Roles
+﻿# Agent Roles
 
 ## Purpose
+Define distinct agent roles and how responsibilities are separated.
 
-_TODO_
+## Agent Role Inventory
 
-## Contents
+| Role | Primary Objective | Scope | Allowed Actions | Escalates To | Notes |
+|------|-------------------|-------|-----------------|--------------|-------|
+|      |                   |       |                 |              |       |
 
-_TODO_
+## Role Separation Principles
+<TODO>
 
-## Key Facts
+## Shared Capabilities
+<TODO>
 
-_TODO_
+## Role-Specific Constraints
+<TODO>
 
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Handoffs Between Agents
+<TODO>

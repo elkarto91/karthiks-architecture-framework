@@ -1,52 +1,38 @@
-﻿---
-title: Agent Context Sources
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: agent-context-sources.md
-related_docs: []
-related_adrs: []
----
-
-# Agent Context Sources
+﻿# Agent Context Sources
 
 ## Purpose
+Define the documents, data, systems, and signals that provide context to agents.
 
-_TODO_
+## Context Source Inventory
 
-## Contents
+| Source | Type | Purpose | Freshness | Access Mode | Sensitivity | Notes |
+|--------|------|---------|-----------|-------------|-------------|-------|
+|        |      |         |           |             |             |       |
 
-_TODO_
+## Context Categories
+- Business documents
+- Architecture documents
+- ADRs
+- Runbooks
+- APIs and schemas
+- Ticketing / work items
+- Operational telemetry
+- Data products
+- Site / asset metadata
+- Regulatory / policy content
 
-## Key Facts
+## Source Prioritization Rules
+<TODO>
 
-_TODO_
+## Source-of-Truth Rules
+<TODO>
 
-## Open Questions
+## Freshness Rules
+<TODO>
 
-_TODO_
+## Excluded Sources
+<TODO>
 
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Related Documents
+- ../06-data/data-architecture.md
+- ./rag-design.md

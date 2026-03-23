@@ -1,22 +1,53 @@
-﻿# ADR-0001: Title
+﻿# ADR-0001: <Title>
 
 ## Status
 Proposed
 
+## Date
+<TODO>
+
 ## Context
-_TODO_
+<TODO>
 
 ## Decision
-_TODO_
+<TODO>
 
 ## Alternatives Considered
-_TODO_
+
+### Option 1
+- Description
+- Pros
+- Cons
+
+### Option 2
+- Description
+- Pros
+- Cons
 
 ## Consequences
-_TODO_
 
-## Owners
-_TODO_
+### Positive
+<TODO>
+
+### Negative
+<TODO>
+
+### Risks
+<TODO>
+
+## Impacted Areas
+- Business
+- Solution
+- Data
+- Security
+- Infra
+- Agents
+
+## Related Decisions
+<TODO>
+
+## References
+<TODO>
 
 ## Review Date
-_TODO_
+<TODO>

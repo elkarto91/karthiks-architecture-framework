@@ -1,52 +1,31 @@
-﻿---
-title: Tooling and Actions
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: tooling-and-actions.md
-related_docs: []
-related_adrs: []
----
-
-# Tooling and Actions
+﻿# Tooling and Actions
 
 ## Purpose
+Define the tools, APIs, and systems that agents can use, and the actions they may perform.
 
-_TODO_
+## Tool Inventory
 
-## Contents
+| Tool / API | Purpose | Read / Write | Approval Required | Risk Level | Notes |
+|------------|---------|--------------|-------------------|------------|-------|
+|            |         |              |                   |            |       |
 
-_TODO_
+## Action Categories
+- Read-only lookup
+- Draft generation
+- Recommendation
+- Workflow update
+- Configuration change
+- External execution
 
-## Key Facts
+## Tool Invocation Rules
+<TODO>
 
-_TODO_
+## Safe Defaults
+<TODO>
 
-## Open Questions
+## Disallowed Actions
+<TODO>
 
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Related Documents
+- ./guardrails.md
+- ./human-in-the-loop.md

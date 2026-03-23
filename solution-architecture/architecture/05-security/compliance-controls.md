@@ -1,52 +1,16 @@
-﻿---
-title: Compliance Controls
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: compliance-controls.md
-related_docs: []
-related_adrs: []
----
-
-# Compliance Controls
+﻿# Compliance Controls
 
 ## Purpose
+Map system controls to regulatory requirements.
 
-_TODO_
+## Applicable Regulations
+<TODO>
 
-## Contents
+## Control Mapping
+<TODO>
 
-_TODO_
+## Audit Requirements
+<TODO>
 
-## Key Facts
-
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Reporting Requirements
+<TODO>

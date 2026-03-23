@@ -1,52 +1,35 @@
-﻿---
-title: Guardrails
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: guardrails.md
-related_docs: []
-related_adrs: []
----
-
-# Guardrails
+﻿# Guardrails
 
 ## Purpose
+Define safety, policy, validation, and access controls governing agent behavior.
 
-_TODO_
+## Safety Objectives
+<TODO>
 
-## Contents
+## Guardrail Categories
+- Input validation
+- Output validation
+- Policy enforcement
+- Tool-use restrictions
+- Data access restrictions
+- Human approval gates
+- Audit logging
 
-_TODO_
+## Restricted Topics / Actions
+<TODO>
 
-## Key Facts
+## Policy Enforcement Model
+<TODO>
 
-_TODO_
+## Validation Checks
+<TODO>
 
-## Open Questions
+## Escalation Rules
+<TODO>
 
-_TODO_
+## Audit / Logging Requirements
+<TODO>
 
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Related Documents
+- ../05-security/security-overview.md
+- ./tooling-and-actions.md

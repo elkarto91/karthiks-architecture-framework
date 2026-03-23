@@ -1,52 +1,38 @@
-﻿---
-title: Agent Overview
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: agent-overview.md
-related_docs: []
-related_adrs: []
----
-
-# Agent Overview
+﻿# Agent Overview
 
 ## Purpose
+Describe the overall role of AI agents in the system, including scope, boundaries, and operating model.
 
-_TODO_
+## AI / Agent Vision
+<TODO>
 
-## Contents
+## Agent Operating Model
+<TODO>
 
-_TODO_
+## Agent Scope
+- <Scope 1>
+- <Scope 2>
 
-## Key Facts
+## Agent Boundaries
+- <Boundary 1>
+- <Boundary 2>
 
-_TODO_
+## Agent Types
 
-## Open Questions
+| Agent | Purpose | Reads | Writes / Acts | Human Approval Required | Notes |
+|-------|---------|-------|---------------|-------------------------|-------|
+|       |         |       |               |                         |       |
 
-_TODO_
+## Supported Business Areas
+<TODO>
 
-## Decisions
+## Excluded Areas
+<TODO>
 
-_TODO_
+## Key Risks
+<TODO>
 
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Related Documents
+- ./agent-use-cases.md
+- ./tooling-and-actions.md
+- ./guardrails.md

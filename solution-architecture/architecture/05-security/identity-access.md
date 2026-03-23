@@ -1,52 +1,28 @@
-﻿---
-title: Identity and Access
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: identity-access.md
-related_docs: []
-related_adrs: []
----
-
-# Identity and Access
+﻿# Identity and Access
 
 ## Purpose
+Define identity and access control model.
 
-_TODO_
+## Identity Types
+- Users
+- Admins
+- Services
+- Devices
 
-## Contents
+## Authentication Methods
+<TODO>
 
-_TODO_
+## Authorization Model
+<TODO>
 
-## Key Facts
+## Role Definitions
+<TODO>
 
-_TODO_
+## Access Control Matrix
+<TODO>
 
-## Open Questions
+## Privileged Access Strategy
+<TODO>
 
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Multi-Tenancy Access Model
+<TODO>

@@ -1,52 +1,21 @@
-﻿---
-title: Red Team Scenarios
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: red-team-scenarios.md
-related_docs: []
-related_adrs: []
----
-
-# Red Team Scenarios
+﻿# Red Team Scenarios
 
 ## Purpose
+Define adversarial, unsafe, and failure-inducing scenarios used to test the agent.
 
-_TODO_
+## Scenario Categories
+- Prompt injection
+- Data exfiltration attempts
+- Unauthorized action requests
+- Hallucinated architecture facts
+- Outdated-context reliance
+- Cross-project confidentiality leakage
 
-## Contents
+## Test Cases
+<TODO>
 
-_TODO_
+## Expected Controls
+<TODO>
 
-## Key Facts
-
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Review Process
+<TODO>

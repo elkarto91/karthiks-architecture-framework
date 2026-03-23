@@ -1,52 +1,25 @@
-﻿---
-title: Output Contracts
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: output-contracts.md
-related_docs: []
-related_adrs: []
----
-
-# Output Contracts
+﻿# Output Contracts
 
 ## Purpose
+Define the expected structure and guarantees of agent outputs.
 
-_TODO_
+## Output Types
+- Summary
+- Recommendation
+- Decision draft
+- Incident briefing
+- Architecture note
+- Workflow suggestion
 
-## Contents
+## Output Requirements
+- Clear structure
+- Evidence/citation when applicable
+- Confidence / uncertainty indication
+- Action classification
+- Human review marker when needed
 
-_TODO_
+## Validation Rules
+<TODO>
 
-## Key Facts
-
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Rejection / Retry Rules
+<TODO>

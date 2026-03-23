@@ -1,52 +1,28 @@
-﻿---
-title: Ranking and Freshness
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: ranking-and-freshness.md
-related_docs: []
-related_adrs: []
----
-
-# Ranking and Freshness
+﻿# Ranking and Freshness
 
 ## Purpose
+Define how candidate context is ranked and how freshness affects retrieval.
 
-_TODO_
+## Ranking Priorities
+1. Authoritative source
+2. Project relevance
+3. Document status
+4. Freshness
+5. Semantic match
+6. Linked ADRs / dependencies
 
-## Contents
+## Freshness Classes
+- Real-time
+- Daily
+- Weekly
+- Monthly
+- Stable / archival
 
-_TODO_
+## Freshness Override Rules
+<TODO>
 
-## Key Facts
+## Tie-Breaking Rules
+<TODO>
 
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Failure Cases
+<TODO>

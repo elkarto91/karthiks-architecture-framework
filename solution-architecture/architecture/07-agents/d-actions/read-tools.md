@@ -1,52 +1,16 @@
-﻿---
-title: Read Tools
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: read-tools.md
-related_docs: []
-related_adrs: []
----
-
-# Read Tools
+﻿# Read Tools
 
 ## Purpose
+Define read-only systems and APIs available to the agent.
 
-_TODO_
+## Tool Inventory
 
-## Contents
+| Tool | Reads From | Scope | Restrictions | Notes |
+|------|------------|-------|--------------|-------|
+|      |            |       |              |       |
 
-_TODO_
+## Safe Use Rules
+<TODO>
 
-## Key Facts
-
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Logging Requirements
+<TODO>
