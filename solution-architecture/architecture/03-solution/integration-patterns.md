@@ -1,52 +1,36 @@
-﻿---
-title: Integration Patterns
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: integration-patterns.md
-related_docs: []
-related_adrs: []
----
-
-# Integration Patterns
+﻿# Integration Patterns
 
 ## Purpose
+Document the patterns and standards used for system integration.
 
-_TODO_
+## Integration Inventory
 
-## Contents
+| Integration | Pattern | Protocol | Direction | Sync/Async | Notes |
+|-------------|---------|----------|-----------|------------|-------|
+|             |         |          |           |            |       |
 
-_TODO_
+## Standard Patterns Used
+- REST / HTTP APIs
+- Event-driven messaging
+- Webhooks
+- Scheduled batch sync
+- File exchange
+- Streaming
+- Edge relay / gateway relay
+- MCP / tool invocation interface
 
-## Key Facts
+## Error Handling Strategy
+<TODO>
 
-_TODO_
+## Retry and Idempotency Strategy
+<TODO>
 
-## Open Questions
+## Timeout / Circuit Breaker Strategy
+<TODO>
 
-_TODO_
+## Security Notes
+<TODO>
 
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Related Documents
+- ../01-context/external-systems.md
+- ../05-security/security-overview.md

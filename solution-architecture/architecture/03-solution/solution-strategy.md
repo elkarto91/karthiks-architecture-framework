@@ -1,52 +1,41 @@
-﻿---
-title: Solution Strategy
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: solution-strategy.md
-related_docs: []
-related_adrs: []
----
-
-# Solution Strategy
+﻿# Solution Strategy
 
 ## Purpose
+Describe the overall architectural approach chosen to solve the business problem.
 
-_TODO_
+## Problem Being Solved
+<TODO>
 
-## Contents
+## Solution Vision
+<TODO>
 
-_TODO_
+## Architectural Style
+<TODO>
 
-## Key Facts
+## Core Design Principles
+- <Principle 1>
+- <Principle 2>
+- <Principle 3>
 
-_TODO_
+## Major Building Blocks
+- <Block 1>
+- <Block 2>
+- <Block 3>
 
-## Open Questions
+## Key Architectural Decisions
+- <Decision 1>
+- <Decision 2>
 
-_TODO_
+## Benefits of This Strategy
+<TODO>
 
-## Decisions
+## Trade-offs
+<TODO>
 
-_TODO_
+## Alternatives Considered
+<TODO>
 
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Related Documents
+- ../02-business/business-goals.md
+- ./logical-architecture.md
+- ../08-decisions/

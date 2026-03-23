@@ -1,52 +1,31 @@
-﻿---
-title: System Context
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: system-context.md
-related_docs: []
-related_adrs: []
----
-
-# System Context
+﻿# System Context
 
 ## Purpose
+Defines system boundaries and interactions.
 
-_TODO_
+## System Under Consideration
+<TODO>
 
-## Contents
+## Business Context
+<TODO>
 
-_TODO_
+## External Actors
+- <Actor>
 
-## Key Facts
+## External Systems
+- <System>
 
-_TODO_
+## Key Interactions
+<TODO>
 
-## Open Questions
+## Trust Boundaries
+<TODO>
 
-_TODO_
+## Constraints
+<TODO>
 
-## Decisions
+## Assumptions
+<TODO>
 
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Related Diagrams
+- ../../diagrams/c4/system-context.puml

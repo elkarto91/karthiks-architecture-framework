@@ -1,52 +1,19 @@
-﻿---
-title: Service Catalog
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: service-catalog.md
-related_docs: []
-related_adrs: []
----
-
-# Service Catalog
+﻿# Service Catalog
 
 ## Purpose
+Provide a concise inventory of services, modules, and major responsibilities.
 
-_TODO_
+## Services / Modules
 
-## Contents
+| Service / Module | Type | Responsibility | Inputs | Outputs | Owner |
+|------------------|------|----------------|--------|---------|-------|
+|                  |      |                |        |         |       |
 
-_TODO_
+## Notes on Classification
+- Type may be API, internal service, workflow engine, connector, agent, batch processor, UI module, edge component, etc.
 
-## Key Facts
+## Ownership Notes
+<TODO>
 
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Lifecycle Notes
+<TODO>

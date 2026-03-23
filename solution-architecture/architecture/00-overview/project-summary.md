@@ -1,52 +1,37 @@
-﻿---
-title: Project Summary
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: project-summary.md
-related_docs: []
-related_adrs: []
----
-
-# Project Summary
+﻿# Project Summary
 
 ## Purpose
+Provides a concise overview of the system for stakeholders and AI context ingestion.
 
-_TODO_
+## Project Name
+<TODO>
 
-## Contents
+## Description
+<TODO>
 
-_TODO_
+## Domain
+<TODO>
 
-## Key Facts
+## Problem Statement
+<TODO>
 
-_TODO_
+## Target Users
+<TODO>
 
-## Open Questions
+## Key Capabilities
+<TODO>
 
-_TODO_
+## Deployment Type
+<TODO>
 
-## Decisions
+## Current Stage
+<TODO>
 
-_TODO_
+## Key Systems
+<TODO>
 
-## Risks
+## AI Involvement
+<TODO>
 
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Related Documents
+- ../01-context/system-context.md

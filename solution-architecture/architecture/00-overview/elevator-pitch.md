@@ -1,52 +1,16 @@
-﻿---
-title: Elevator Pitch
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: elevator-pitch.md
-related_docs: []
-related_adrs: []
----
-
-# Elevator Pitch
+﻿# Elevator Pitch
 
 ## Purpose
+One-paragraph explanation of the system.
 
-_TODO_
+## Pitch
+<TODO>
 
-## Contents
+## Value Proposition
+<TODO>
 
-_TODO_
+## Differentiation
+<TODO>
 
-## Key Facts
-
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Target Audience
+<TODO>

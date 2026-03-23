@@ -1,52 +1,25 @@
-﻿---
-title: Domain Model Summary
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: domain-model-summary.md
-related_docs: []
-related_adrs: []
----
-
-# Domain Model Summary
+﻿# Domain Model Summary
 
 ## Purpose
+Summarize the key business entities and major relationships in the system.
 
-_TODO_
+## Core Entities
+- <Entity 1>
+- <Entity 2>
+- <Entity 3>
 
-## Contents
+## Entity Summary
 
-_TODO_
+| Entity | Description | Key Relationships | Lifecycle Notes |
+|--------|-------------|-------------------|-----------------|
+|        |             |                   |                 |
 
-## Key Facts
+## Domain Rules
+<TODO>
 
-_TODO_
+## State-Heavy Entities
+<TODO>
 
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Related Diagrams
+- ../../diagrams/data/
+- ../../diagrams/state/

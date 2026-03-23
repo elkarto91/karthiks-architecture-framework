@@ -1,52 +1,36 @@
-﻿---
-title: Logical Architecture
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: logical-architecture.md
-related_docs: []
-related_adrs: []
----
-
-# Logical Architecture
+﻿# Logical Architecture
 
 ## Purpose
+Define the major logical components of the system and their responsibilities.
 
-_TODO_
+## Logical View Overview
+<TODO>
 
-## Contents
+## Component List
 
-_TODO_
+| Component | Responsibility | Interfaces | Notes |
+|-----------|----------------|------------|-------|
+|           |                |            |       |
 
-## Key Facts
+## Interaction Model
+<TODO>
 
-_TODO_
+## Domain / Bounded Context Separation
+<TODO>
 
-## Open Questions
+## Shared Services
+<TODO>
 
-_TODO_
+## Ownership Boundaries
+<TODO>
 
-## Decisions
+## Cross-Cutting Concerns
+- Security
+- Observability
+- Auditability
+- Configuration
+- Error handling
 
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Related Diagrams
+- ../../diagrams/c4/container.puml
+- ../../diagrams/c4/component.puml

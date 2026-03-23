@@ -1,52 +1,53 @@
-﻿---
-title: Runtime Scenarios
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: runtime-scenarios.md
-related_docs: []
-related_adrs: []
----
-
-# Runtime Scenarios
+﻿# Runtime Scenarios
 
 ## Purpose
+Capture the most important runtime flows and behavior patterns.
 
-_TODO_
+## Scenario 1: <Name>
+### Trigger
+<TODO>
 
-## Contents
+### Preconditions
+<TODO>
 
-_TODO_
+### Main Flow
+1. <Step 1>
+2. <Step 2>
+3. <Step 3>
 
-## Key Facts
+### Alternate / Failure Paths
+<TODO>
 
-_TODO_
+### Outputs
+<TODO>
 
-## Open Questions
+### Observability Notes
+<TODO>
 
-_TODO_
+---
 
-## Decisions
+## Scenario 2: <Name>
+### Trigger
+<TODO>
 
-_TODO_
+### Preconditions
+<TODO>
 
-## Risks
+### Main Flow
+1. <Step 1>
+2. <Step 2>
+3. <Step 3>
 
-_TODO_
+### Alternate / Failure Paths
+<TODO>
 
-## Interfaces / Dependencies
+### Outputs
+<TODO>
 
-_TODO_
+### Observability Notes
+<TODO>
 
-## Related Systems
-
-_TODO_
+## Related Diagrams
+- ../../diagrams/sequence/
+- ../../diagrams/state/
+- ../../diagrams/bpmn/

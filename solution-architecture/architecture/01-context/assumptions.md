@@ -1,52 +1,14 @@
-﻿---
-title: Assumptions
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: assumptions.md
-related_docs: []
-related_adrs: []
----
-
-# Assumptions
+﻿# Assumptions
 
 ## Purpose
+Capture assumptions made.
 
-_TODO_
+## Assumptions List
+- <Assumption 1>
+- <Assumption 2>
 
-## Contents
+## Validation Plan
+<TODO>
 
-_TODO_
-
-## Key Facts
-
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Risks if Invalid
+<TODO>

@@ -1,52 +1,23 @@
-﻿---
-title: Architecture at a Glance
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: architecture-at-a-glance.md
-related_docs: []
-related_adrs: []
----
-
-# Architecture at a Glance
+﻿# Architecture at a Glance
 
 ## Purpose
+High-level architecture summary.
 
-_TODO_
+## Key Components
+- <Component 1>
+- <Component 2>
 
-## Contents
+## Key Flows
+<TODO>
 
-_TODO_
+## Deployment Overview
+<TODO>
 
-## Key Facts
+## Technology Stack
+<TODO>
 
-_TODO_
+## AI Components
+<TODO>
 
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Related Diagrams
+- ../../diagrams/c4/container.puml

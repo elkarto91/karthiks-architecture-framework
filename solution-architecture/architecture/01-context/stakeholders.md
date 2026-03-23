@@ -1,52 +1,19 @@
-﻿---
-title: Stakeholders
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: stakeholders.md
-related_docs: []
-related_adrs: []
----
-
-# Stakeholders
+﻿# Stakeholders
 
 ## Purpose
+Identify all stakeholders.
 
-_TODO_
+## Stakeholder List
 
-## Contents
+| Name | Role | Interest | Influence |
+|------|------|----------|-----------|
+|      |      |          |           |
 
-_TODO_
+## Internal Stakeholders
+<TODO>
 
-## Key Facts
+## External Stakeholders
+<TODO>
 
-_TODO_
-
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Communication Plan
+<TODO>

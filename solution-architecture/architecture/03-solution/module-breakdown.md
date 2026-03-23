@@ -1,52 +1,28 @@
-﻿---
-title: Module Breakdown
-section:
-project:
-domain:
-product_type:
-audience:
-status: draft
-owner:
-reviewers:
-last_reviewed:
-tags: []
-ai_context_priority:
-confidentiality:
-source_of_truth: module-breakdown.md
-related_docs: []
-related_adrs: []
----
-
-# Module Breakdown
+﻿# Module Breakdown
 
 ## Purpose
+Explain the internal decomposition of the solution into modules or bounded contexts.
 
-_TODO_
+## Modules
 
-## Contents
+### Module Name
+**Responsibility:** <TODO>  
+**Key Interfaces:** <TODO>  
+**Dependencies:** <TODO>  
+**Owned Data:** <TODO>  
+**Notes:** <TODO>
 
-_TODO_
+---
 
-## Key Facts
+### Module Name
+**Responsibility:** <TODO>  
+**Key Interfaces:** <TODO>  
+**Dependencies:** <TODO>  
+**Owned Data:** <TODO>  
+**Notes:** <TODO>
 
-_TODO_
+## Design Notes
+<TODO>
 
-## Open Questions
-
-_TODO_
-
-## Decisions
-
-_TODO_
-
-## Risks
-
-_TODO_
-
-## Interfaces / Dependencies
-
-_TODO_
-
-## Related Systems
-
-_TODO_
+## Risks / Coupling Concerns
+<TODO>
